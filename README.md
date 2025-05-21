@@ -17,12 +17,6 @@
 - Python  
 - TOEIC OOO점  
 
-## Projects
-- [시스템 맵 분석](#)  
-  ![시스템맵](시스템맵.GIF)  
-- [데이터 가설 수립](#)  
-  ![데이터 시각화](데이터 시각화.GIF)  
-
 ## My Favorites
 - **장르**: 감성힙합, 팝  
 - **노래**: [SISO WAVE - Polaroid](https://www.youtube.com/watch?v=8qCg_RfRj8E)  
